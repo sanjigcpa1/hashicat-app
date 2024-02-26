@@ -1,0 +1,26 @@
+[
+  {
+    "Description": "Development Load Testing",
+    "Department": "Development",
+    "Environment": "DEV",
+    "Purpose": "Load Testing",
+    "Product Stack": "DEV-2",
+    "Deployment ID": "1708987884"
+  },
+  {
+    "Description": "CloudOps Full Stack",
+    "Department": "CloudOps",
+    "Environment": "QA",
+    "Purpose": "Full Stack",
+    "Product Stack": "QA-3",
+    "Deployment ID": "1708988061"
+  },
+  {
+    "Description": "Marketing Feature Validation",
+    "Department": "Marketing",
+    "Environment": "PROD",
+    "Purpose": "Feature Validation",
+    "Product Stack": "PROD-1",
+    "Deployment ID": "1708988228"
+  }
+]

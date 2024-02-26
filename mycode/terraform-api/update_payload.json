@@ -1,0 +1,9 @@
+{
+    "data": {
+        "attributes": {
+            "name": "soffx-api",
+            "description": "This is an update to the description."
+        },
+        "type": "workspaces"
+    }
+}
