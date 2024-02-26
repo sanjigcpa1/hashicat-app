@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. Are your friends real?
+  Welcome to ${PREFIX}'s app. Are your friends real? You arwe good and true to them but they are confident that they are deceiving you.
   <!-- END -->
 
   </div>
